@@ -1,7 +1,7 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    background: silver;
+    background: lightgray;
 }
 
 h1 {
@@ -46,7 +46,7 @@ span {
     transform: scale(0.97);
 }
 
-.modal-overlay{
+.modal-overlay {
     background: #000000;
     bottom: 0;
     left: 0;
@@ -59,7 +59,7 @@ span {
     z-index: 600;
 }
 
-.modal-wrapper{
+.modal-wrapper {
     padding: 1em 0;
     position: relative;
     margin: 0 auto;
